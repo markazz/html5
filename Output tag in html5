@@ -1,0 +1,20 @@
+<html>
+<body>
+Sample 1 (Simple eg)
+<br>
+Type Here : <input type="text" onkeyup="OP.value=this.value">
+<output id="OP"></output>
+<br><br>
+Sample 2 (Range eg)
+<br>
+<input type="range" value="3" oninput="OP1.value=this.value;"><output id="OP1">3</output>
+<br><br>
+Sample 3 (Calculation eg)
+<br>
+<form oninput="Ans.value=parseInt(Fid.value)+parseInt(Sid.value)">
+<br>
+<input type="number" id="Fid"> + <input type="number" id="Sid">
+=<output name="Ans"></output>
+</form>
+</body>
+</html>
