@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title> Index</title>
+		<meta charset ="UTF-8">
+		<link href="styles.css" rel="stylesheet" style="text/css">
+	</head>
+
+
+<body>
+
+
+<!-- DIVISION 1 -->
+<div id="first">
+	<h1>Duis ut nulla nulla. Vestibulum mi ante, placerat a metus vel, fringilla volutpat turpis. </h1>
+	<p>
+		 Curabitur volutpat nunc ac eros vehicula gravida. Vestibulum sit amet mi malesuada, mattis ante eget, cursus metus. Donec et vestibulum lectus. Maecenas nec leo est. Sed eget tortor placerat, interdum neque vitae, ultrices ex. Vivamus posuere at tortor at efficitur. Vivamus eu porttitor mi. Etiam aliquam sapien eu odio sollicitudin, sed viverra sapien fringilla.
+	</p>
+</div>
+
+
+
+
+<!-- DIVISON SECOND -->
+<div id="second">
+	<h2>Vivamus a commodo mi. In sodales augue in quam tincidunt, at vestibulum metus finibus. Quisque</h2>
+	<p>
+
+ euismod erat massa, ornare imperdiet risus malesuada at. Donec mollis dignissim diam dictum efficitur. Quisque eleifend odio eget nisl feugiat, ut blandit tortor hendrerit. Integer tincidunt elit et ligula faucibus rutrum. Morbi aliquam, erat bibendum convallis ullamcorper, ligula ex vulputate orci, eu auctor ante justo id velit. Nulla iaculis mi id risus tincidunt finibus. Aenean aliquet libero quis tortor placerat consequat.
+		
+	</p>
+</div>
+
+
+
+<!-- DIVISON  THIRD -->
+<div id="third">
+	<h3>nc molestie tellus dolor, vel mollis massa aliquet vel. Nullam blandit mi nec velit sodales, quis </h3>
+	<p>
+
+mollis massa dapibus. Suspendisse magna dolor, sollicitudin sed magna vel, accumsan ultrices leo. Pellentesque ligula dolor, egestas sit amet nisi ut, suscipit eleifend nisl. Nam tristique risus semper, convallis arcu sed, rhoncus ligula. Donec et venenatis diam, nec interdum elit. Integer blandit mollis sagittis. Nullam urna lacus, scelerisque dictum dui non, posuere condimentum est.
+Phasellus sollicitudin ligula ac malesuada lobortis. Praesent nec metus a lorem viverra varius eu eget sem. Donec pretium tempor dictum. Fusce vel ipsum pretium nisi euismod accumsan non nec odio. Duis at est in mi sagittis blandit ac nec purus. Integer turpis nulla, dictum id ante eu, posuere consequat mauris. Fusce vit
+		
+	</p>
+</div>
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
