@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>  hydrogen </title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	<meta charset="utf-8">
+</head>
+
+
+<body>
+
+
+
+
+
+<!-- HEADER -->
+<header>  
+<h2>   HYDROGEN    </h2>
+</header>
+
+
+
+<!-- NAV -->
+<nav>
+<ul>
+<li>	<a href="hydrogen.html"> HYDROGEN			</a>	</li>
+<li>	<a href="oxygen.html">	OXYGEN				</a>	</li>
+<li>	<a href="water.html">	WATER				</a>	</li>
+</ul>
+</nav>
+
+
+
+
+
+<!-- MAIN -->
+ <main> 
+
+
+
+
+<!-- 
+
+
+Create a class – p.nb - which changes the font-family and the text colour.
+
+ -->
+<p class="nb">
+	 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vestibulum purus eros, eget lobortis ante finibus in. Aliquam consectetur risus a lectus tristique efficitur. Maecenas luctus elit augue, sit amet bibendum quam finibus quis. Vestibulum consectetur diam vitae nisl porttitor, sed blandit urna tristique. Phasellus pellentesque tempus tortor nec dapibus. Maecenas porta lobortis mauris quis aliquam. Donec maximus nulla leo, sit amet porttitor purus malesuada vitae. Suspendisse felis dui, rutrum vel magna ut, aliquam aliquet enim. Maecenas eget pellentesque nisi. 
+</p>
+
+
+
+
+<p class="bright">
+Curabitur cursus nec enim nec viverra. Integer malesuada orci blandit ante posuere, sit amet consectetur purus feugiat. Sed eu massa orci. Curabitur ut magna a ipsum dictum efficitur. Ut egestas massa eget sem maximus iaculis. Phasellus nec faucibus quam. Sed sit amet nisi ac tellus lobortis tincidunt. Quisque scelerisque sodales sem, non aliquam nisi tincidunt id. Nam egestas, ex quis mattis fringilla, sem erat feugiat nunc, id maximus sapien purus et felis. Suspendisse metus lorem, pretium ac lacus in, rhoncus convallis mi. 
+	
+</p>
+
+
+<article> 
+<h3>wow coool</h3>
+	 Etiam ex justo, suscipit eu quam sed, volutpat maximus odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+</article>
+
+
+
+
+ </main>
+
+
+
+
+
+
+
+
+<!-- FOOTER -->
+<footer>
+
+<img src="hydrogen.jpg" alt="hydrogen">
+</footer>
+
+
+
+
+</body>
+</html>
