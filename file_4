@@ -1,0 +1,83 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title> CSS positions_1</title>
+		<meta charset="UTF-8">
+		
+
+
+
+		<style>
+
+		.paraThree
+		{
+			position: relative;
+			top : 10px;
+			left: 20px;
+		}
+
+
+
+
+		.wordThree
+		{
+			position: relative;
+			top: 5em;
+			bottom: 10em;
+		}
+
+
+		.wordTen
+		{
+			position: relative;
+			left: 7%;
+			bottom: 50%;
+		}
+
+		</style>
+	</head>
+
+
+<body>
+
+<!-- para 1 -->
+<p>
+
+orem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim arcu, elementum id commodo quis, mollis ac massa. In in est quis sapien efficitur pulvinar vitae eu ante. Aenean hendrerit odio sed nisi mollis congue. Pellentesque dapibus lacus id lobortis ultrices. Nunc metus nibh, malesuada ac metus eu, vehicula rhoncus lectus. Nulla vel tortor vestibulum, porttitor lorem eu, faucibus nibh. Duis sit amet purus mauris. Cras commodo mi vitae nulla aliquet volutpat. Nunc mollis imperdiet sapien vel blandit. Donec lacus ante, elementum elementum volutpat quis, pharetra nec odio. Proin nec ultrices augue, sed egestas lectus.
+	
+</p>
+
+
+
+<!-- para 2 -->
+<p>
+Fusce lacinia ante libero, non maximus arcu eleifend sit amet. Nam dignissim vulputate sem, eu bibendum dolor mollis in. Aliquam lorem ante, cursus vitae porttitor scelerisque, convallis nec enim. Sed mollis nisi dolor, ut porttitor magna accumsan in. Maecenas eget nibh purus. Integer placerat nulla in augue malesuada vestibulum id in nulla. Nunc quis dignissim nibh. Integer eget nisi vel dolor cursus rhoncus eu quis felis. Aliquam sollicitudin massa vitae orci condimentum rhoncus. Phasellus accumsan, odio varius aliquet volutpat, tellus velit faucibus erat, et ullamcorper risus augue ac lacus. Quisque eu metus eget quam tempus euismod id eget turpis. Aliquam nec varius dolor. Vestibulum volutpat lectus non leo imperdiet dignissim. Donec sagittis imperdiet finibus.
+	
+</p>
+
+
+<!-- para 3 -->
+<p class="paraThree">
+Cras nibh enim, sodales id hendrerit vitae, bibendum vel magna. Praesent vestibulum, leo sit amet venenatis laoreet, dolor libero posuere lorem, vel commodo tellus libero at metus. Sed vitae eros laoreet, venenatis dui vitae, imperdiet augue. Vestibulum turpis ligula, volutpat a blandit at, euismod in quam. Aliquam suscipit tristique hendrerit. Praesent aliquet eros porttitor, mollis purus sit amet, convallis sem. Donec ut tempor nisi, sed consectetur augue. Nam commodo, lectus sed maximus hendrerit, ante dolor posuere 2ipsum, in hendrerit nisi magna ac arcu.
+	
+</p>
+
+
+
+<!-- para 4 -->
+<p>
+Praesent efficitur<span class="wordThree">augue</span>  eu hendrerit consequat, odio tortor scelerisque <span class="wordTen">semeu</span>  tincidunt libero nisi iaculis felis. Sed consequat a est in mollis. Integer eget lectus et neque varius interdum. Fusce bibendum ornare interdum. Maecenas elementum orci aliquet augue mattis pulvinar. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec dignissim risus sit amet felis maximus tempor. Duis eu tincidunt orci, vel rutrum elit. Phasellus massa nulla, scelerisque et posuere id, porta sed sem. Vivamus tincidunt non ante sed elementum. 
+	
+</p>
+
+</body>
+</html>
+
+
+
+
+
+
+
