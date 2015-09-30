@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title> MARGIN PADDING</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+
+<!-- FIRST CLASS -->
+<div class="first">
+<p>
+	Pellentesque vel massa neque. Maecenas quis dui cursus libero elementum placerat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut rutrum massa sit amet urna placerat tincidunt. Vivamus finibus mauris ac lectus posuere, at efficitur augue sodales. Fusce non massa iaculis, bibendum velit rutrum, sagittis urna. Pellentesque dignissim nulla ac neque sollicitudin, quis fringilla magna mollis. Nam posuere sit amet urna at facilisis. In a ultrices ligula. 
+</p>
+
+<ol>
+	<li>ger vitae hendrerquis purus condimentum pre</li>
+	<li>unt. Curabitur dignissim et massa vel </li>
+	<li>sed felis eget ante tincidunt elementum ac at m</li>
+
+</ol>
+</div>
+
+
+
+
+
+
+<!-- SECOND CLASS -->
+<div class="second">
+<h1>sum dolor sit amet, consectetur adipiscing elit. Proin et mi facilisis, egesta</h1>
+<p>
+	Nulla non nisl a nunc euismod tincidunt nec eget ligula. Ut semper tincidunt nunc, eu euismod ante scelerisque ac. Pellentesque porttitor, sapien non lacinia scelerisque, massa odio condimentum est, a tincidunt metus risus eget lorem. Cras a purus diam. Aliquam nec elit luctus, auctor ipsum a, sollicitudin arcu. Pellentesque congue ut erat id pretium. Nam nec elit augue. Nulla mi mi, porttitor at vestibulum vel, molestie quis dolor. Vestibulum orci quam, fringilla vel nunc aliquet, auctor viverra mauris. Aliquam ornare interdum purus. Duis faucibus felis eu magna mollis, ut aliquet mi gravida. Aliquam et tincidunt sapien. Nam non justo eget enim faucibus sagittis. Vestibulum nec interdum tellus. Sed et dictum dui. 
+</p>
+</div>
+
+
+
+<!-- THIRD CLASS -->
+<div class="third">
+<h2>a purus diam. Aliquam nec elit luctus, auctor ipsum a, sollic</h2>
+</div>
+
+
+
+
+<!-- FOURTH CLASS -->
+<div class="fourth">
+	<p>
+		Morbi bibendum eros augue. Sed eu sapien in eros viverra convallis. Aenean tincidunt risus id convallis congue. Cras at semper tellus, ut tristique ante. Vestibulum tempus justo enim. Quisque convallis, ipsum eu efficitur porttitor, enim justo pharetra metus, quis euismod nulla libero quis sapien. Mauris egestas eros nec ipsum auctor, vitae pulvinar orci ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean lacinia turpis nec nibh molestie accumsan. 
+	</p>
+</div>
+
+
+
+<!-- 
+EXTRA:
+Create a declaration block for an id selector that addresses both margin and padding. 
+Use this id in your HTML document
+ -->
+
+<div id="extra">
+<p>
+ulla nec finibus dui. Cras maximus ante ac tellus eleifend pharetra. Pellentesque accumsan neque non enim tincidunt, sit amet consectetur dui semper. Maecenas eu odio faucibus, imperdiet augue vitae, vulputate sem. Morbi lorem augue, sodales sed posuere ac, aliquam id ante. Nullam lorem odio, blandit imperdiet lacus quis, finibus dignissim risus. Nunc eu velit quis purus molestie aliquet. Quisque et nunc non metus vulputate molestie. Pellentesque scelerisque ligula ac feugiat pharetra. Suspendisse nec commodo elit, sit amet pretium nibh. Sed lacinia, neque eu interdum egestas, nisi arcu euismod turpis, eget congue lacus justo aliquam nunc. Nullam commodo massa felis, ut condimentum ex aliquet in. Maecenas ullamcorper arcu quis libero congue faucibus. Curabitur facilisis metus dapibus urna ultricies venenatis. Sed sollicitudin urna luctus turpis rutrum sceleris
+</p>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
