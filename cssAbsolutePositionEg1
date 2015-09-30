@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Absolute Positioning</title>
+<style type="text/css">
+p
+{
+font-size:1.5em;
+font-family:verdana, sans-serif;
+line-height:1.6em;
+color:#FFFF00;
+background-color:#000000;
+}
+
+#box1 
+{
+position: absolute;
+top: 150px;
+left:50px; 
+width:300px;
+height:200px;
+border:#FFFFFF dashed 2px;
+color: #33FFFF;
+background-color:#336600;
+}
+</style>
+  
+ </head>
+<body>
+
+	<div id="box1">
+		<h2>Box 1</h2>
+		This box has position:absolute. It's location from the top and left is in relation to the edge of the overall document
+	</div> 
+ 
+	<p>1. Lorem ipsum dolor sit amet consectetuer pede cursus ante dui justo. Vestibulum Quisque facilisis congue condimentum ut Pellentesque velit consequat.</p>
+
+	<p>2.Justo ullamcorper quis interdum tincidunt Quisque sagittis dolor Pellentesque dui ac. Mi ut platea justo libero interdum consequat gravida dui arcu fringilla. Dolor mi nulla Donec mauris Curabitur nunc.</p>
+ 
+
+	<p>3.Venenatis interdum libero risus arcu pede auctor ridiculus pede eu congue. Gravida elit a Curabitur pellentesque Sed et risus tempor ac nunc. In Nullam egestas id nibh Vestibulum gravida cursus nibh Cum vitae. </p>   
+ 
+</body>
+</html>
