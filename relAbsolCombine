@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+ 
+<title>Positioning little boxes</title>
+<style type="text/css">
+
+body {
+margin: 0;
+padding: 0;
+font-family: verdana, sans-serif;
+font-size: 80%;
+background-color: #eff;
+}
+
+p, ul {
+margin: 5px 17%;
+padding: 0;
+}
+
+.boxtext {
+margin: 0;
+padding: 5px 9%;
+font-family: 'times new roman', serif;
+font-size: 1.2em;
+}
+
+
+div#container {
+position:relative;  
+border: 6px solid #090;
+background-color: #ff8;
+margin: 5px 40px; 
+}
+
+/***** little boxes *****/
+div.upperleft, div.upperright, div.lowerleft, div.lowerright { 
+position: absolute;
+width: 30px;
+height: 30px;
+}
+
+/***** positioning values for little boxes *****/
+
+div.upperleft {
+left: 1%;
+top: 0;
+border: 6px solid #f00;
+}
+
+div.upperright {
+right: 0;
+top: 0;
+border: 6px solid #f00;
+}
+
+div.lowerleft {
+left: 0;
+bottom: 0;
+border: 6px solid #00f;
+}
+
+div.lowerright {
+right: 0;
+bottom: 0;
+border: 6px solid #00f;
+}
+
+
+
+</style>
+ </head>
+ <body>
+
+</head>
+
+<body>
+
+
+<div id="container">	<!--************** start of demo ****************-->
+
+    <div class="upperleft">
+    </div>
+
+    <div class="upperright">
+    </div>
+
+    <div class="lowerleft">
+    </div>
+
+    <div class="lowerright">
+    </div>
+
+
+  <p class="boxtext">
+
+  <strong>Relative and Absolute Positioning</strong>
+The outer box is defined as a DIV and is relatively positioned. As such it becomes a <em>containing block</em>. No attempt is made to set any values for top, left, bottom or right.  Each corner box is also created using a DIV but each is absolutely positioned and occurs within the outer box. Because of this they position themselves in relation to the edges of the <em>containing block</em>. Observe what happens if you add or remove text from this paragraph. Also, observe the effect of moving any of the corner DIVs outside the containing DIVThe outer box is defined as a DIV and is relatively positioned. As such it becomes a <em>containing block</em>. No attempt is made to set any values for top, left, bottom or right.  Each corner box is also created using a DIV but each is absolutely positioned and occurs within the outer box. Because of this they position themselves in relation to the edges of the <em>containing block</em>. Observe what happens if you add or remove text from this paragraph. Also, observe the effect of moving any of the corner DIVs outside the containing DIV.
+The outer box is defined as a DIV and is relatively positioned. As such it becomes a <em>containing block</em>. No attempt is made to set any values for top, left, bottom or right.  Each corner box is also created using a DIV but each is absolutely positioned and occurs within the outer box. Because of this they position themselves in relation to the edges of the <em>containing block</em>. Observe what happens if you add or remove text from this paragraph. Also, observe the effect of moving any of the corner DIVs outside the containing DIVThe outer box is defined as a DIV and is relatively positioned. As such it becomes a <em>containing block</em>. No attempt is made to set any values for top, left, bottom or right.  Each corner box is also created using a DIV but each is absolutely positioned and occurs within the outer box. Because of this they position themselves in relation to the edges of the <em>containing block</em>. Observe what happens if you add or remove text from this paragraph. Also, observe the effect of moving any of the corner DIVs outside the containing DIV.
+</p>
+
+
+</div>
+
+ <p>Lorem ipsum dolor sit amet consectetuer In ac Proin lorem tristique. Leo eu risus amet tincidunt consectetuer tristique enim montes nunc consequat. Ipsum Vivamus nec cursus Mauris laoreet sagittis semper eu a dapibus. Tortor ridiculus augue pretium massa felis ac mauris pretium Sed consequat. Tincidunt consequat et ut id laoreet laoreet elit Fusce Integer.</p>
+<p>Vitae malesuada fringilla urna ligula ut felis dignissim urna urna ut. Ut elit nec lorem consectetuer est pulvinar Ut tincidunt id vestibulum. Sed nunc tortor dolor sit et in fames tempor sociis Nam. Platea Vestibulum orci amet eget lacus nulla consectetuer Morbi non urna. Leo est quis nibh amet orci pretium Morbi urna Curabitur ut. Pretium pretium Nunc Nulla gravida metus pellentesque dui Donec In ligula. Integer Suspendisse.</p>
+<p>Facilisis Nam ac fringilla eros in sed ipsum enim ligula mauris. Sem facilisi sagittis id semper consequat pretium justo elit nibh quis. Commodo amet non justo sociis rutrum gravida Quisque elit risus tempor. Malesuada Phasellus congue vestibulum Nam vitae Ut sed tempor pede at. Neque dui gravida amet Vestibulum Nullam vel lacus elit vel consequat. At tristique tincidunt Sed consectetuer et cursus Nam.</p>
+<p>Suspendisse Morbi id urna nibh lorem enim amet laoreet tincidunt nulla. Nam leo aliquet mus auctor a dictumst quis interdum pellentesque non. Hendrerit Nulla Curabitur massa natoque tellus lacinia nibh cursus hendrerit purus. Cras sit Aliquam odio Donec Ut Curabitur Nam Sed nulla Sed. Donec libero lacinia risus enim Sed sapien at velit eu habitant. Gravida interdum convallis amet Vivamus tellus Curabitur amet libero Praesent turpis. </p>
+
+</body>
+
+</html>
