@@ -1,5 +1,9 @@
 
-					function myMap(){
+document.write('I am javascript');
+
+
+function myMap(){
+
 var mapOptions = {
 	center : new google.maps.LatLng(51.5, -0.12),
 	zoom:10,
